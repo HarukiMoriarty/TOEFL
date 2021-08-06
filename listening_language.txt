@@ -1,0 +1,4 @@
+subjective 主观的
+refreshment 点心 
+rate 单价
+chart 价目表

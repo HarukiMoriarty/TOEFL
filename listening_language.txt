@@ -14,3 +14,14 @@ account 评价=comment
 aisle 通道 走廊
 intriguing 迷人的
 plumbing 管道系统
+livestock 牲畜
+pasture 牧场
+perimeter 周长
+absolutism 专制主义
+feudalism 封建主义
+executed 处死
+parliament 议会
+death penalty 死刑 capital sentence 
+monarch 君主制  
+corrupt 腐败的
+

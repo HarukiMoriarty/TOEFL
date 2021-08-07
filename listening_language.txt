@@ -13,3 +13,4 @@ quote 引用
 account 评价=comment
 aisle 通道 走廊
 intriguing 迷人的
+plumbing 管道系统

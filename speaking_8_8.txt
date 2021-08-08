@@ -1,0 +1,17 @@
+Task3
+    R                                       L 
+1.Concept                               1~2examples
+2.Concept 1.features                    examples
+          2.features                    examples
+3.Concept 1.features                    examples
+          2.features                    examples
+4.Concept(正面), but(负面)
+
+
+1.3. In the reading meterial, it talks about _________ that ______________.
+2.   ________________, it talks about _________________ which has a Fs.
+4.   _________________ talks about __________ that __________, which has positive/negative influence on __________.
+
+
+
+hw: 5-10练习

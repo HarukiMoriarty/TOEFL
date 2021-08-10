@@ -14,3 +14,6 @@ forage 觅食
 scamper 蹦蹦跳跳
 immue 免疫
 cobra 眼睛蛇
+shipment 运输
+coalmine 煤矿
+rail road 铁路

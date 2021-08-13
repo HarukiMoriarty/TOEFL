@@ -17,3 +17,7 @@ cobra 眼睛蛇
 shipment 运输
 coalmine 煤矿
 rail road 铁路
+heighten 增强 加亮
+scissors 剪刀 
+howler 吼猴
+side walk 人行道

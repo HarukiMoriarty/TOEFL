@@ -1,0 +1,4 @@
+otter 水濑
+collaboration 合作
+prerequisite 先决条件
+idealize 理想化

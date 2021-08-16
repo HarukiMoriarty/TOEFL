@@ -1,0 +1,19 @@
+推理题：
+1、正向推理：
+    1、定位法：题干中有明显的定位词
+    2、排除法：定位词在原文中找不到或定位词为主旨词
+2、逆向推理：
+    1、一般对比推理：unlike,uniquely,other than,rather than等
+    2、时间对比推理：before,after,until,originally,eventually等
+    3、集合概念对比推理
+
+修辞目的题：
+    观点句  
+        1、段首二句
+        2、转折句 前半句或者例子的前一句
+        3、分层句或者转折句
+        4、therefore,thus,so,consequently,   一般在后一句
+    
+    段落类型：
+        1、段落目的：一般直接看段首主旨句
+        2、段落衔接 段落的第一句最后一句
